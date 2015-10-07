@@ -1,6 +1,15 @@
 # Q&A
+## PWM
 * [PWM](http://raspberrypi.stackexchange.com/questions/298/can-i-use-the-gpio-for-pulse-width-modulation-pwm)
 * [PWM&RPIO.PWM--DMA](https://www.raspberrypi.org/forums/viewtopic.php?f=44&t=36572)
+
+ The RPIO.PWM library does not work on raspberry pi 2. What should we use to get hardware or hybrid PWM?
+
+
+## RTS
+* http://raspberrypi.stackexchange.com/questions/13382/what-streaming-solution-for-the-picam-has-the-smallest-lag
+and example 11 here:
+http://www.linux-projects.org/modules/sections/index.php?op=viewarticle&artid=16
 
 # Material for sonar
 * [kit]( http://www.amazon.de/Sunfounder-Raspberry-Extension-H-Bridge-7-Segment/dp/B00P2E9W30/ref=pd_sim_147_4?ie=UTF8&refRID=15QJBQ62GA3G2ZCMQS0M&dpID=61VKzdnT6RL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_)
